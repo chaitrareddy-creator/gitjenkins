@@ -1,4 +1,4 @@
 print("hello git and jenkins")
-string = "this is chaitra"
-string = string.replace("chaitra","varikuti chaitra !")
+string = "This is chaitra"
+string = string.replace("chaitra","varikuti !!")
 print(string)
